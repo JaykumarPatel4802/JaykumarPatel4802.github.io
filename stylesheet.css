@@ -1,0 +1,24 @@
+.blue-color {
+    color: #980014;
+}
+
+#italisize {
+    font-style: italic;
+}
+
+#website-link {
+    color: blue;
+}
+
+#website-link:hover {
+    color: purple;
+}
+
+.problems-border {
+    border: 5px solid rgb(34, 255, 0);
+    padding: 5px;
+}
+
+#first-project {
+    margin-bottom: 10px;
+}
